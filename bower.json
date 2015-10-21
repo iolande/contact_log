@@ -1,0 +1,23 @@
+{
+  "name": "contact_log",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "fontawesome#~4.4.0"
+  }
+}
